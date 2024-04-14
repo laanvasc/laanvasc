@@ -3,7 +3,7 @@ Mobile Developer
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alan-vasconcelos-087b5a2b9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alan-vasconcelos-087b5a2b9/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/laanvasc/)
 
 # Tech Stack:
