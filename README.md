@@ -1,5 +1,5 @@
 <h1>Alan Vasconcelos</h1>
-Mobile Developer
+<h2>Mobile Developer</h2>
 
 💫 About Me:
 🔴 I’m looking for help with:<br>- IOS Development<br>🟡 I’m currently learning:<br>- Kotlin and Swift<br>🟢 Ask me about:<br>- Mobile Development<br>🔵 Working On:<br>- Simple Projects
