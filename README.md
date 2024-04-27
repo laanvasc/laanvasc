@@ -2,13 +2,11 @@
 <h2>Mobile Developer</h2>
 
 About Me:<br>
-🔴 I’m looking for help with:<br>- IOS Development<br>🟡 I’m currently learning:<br>- Kotlin and Swift<br>🟢 Ask me about:<br>- Mobile Development (im starting)<br>🔵 Working On:<br>- Simple Projects
+🔴 I’m looking for help with:<br>- IOS Development<br>🟡 I’m currently learning:<br>- Kotlin and Swift<br>🔵 Working On:<br>- Simple Projects
 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-vasconcelos-087b5a2b9/) 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/laanvasc/)
 
 # Tech Stack:
 ## Programming Language:
