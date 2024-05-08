@@ -2,7 +2,7 @@
 <h2>Mobile Developer</h2>
 
 About Me:<br>
-🔴 I’m looking for help with:<br>- IOS Development<br>🟡 I’m currently learning:<br>- Kotlin and Swift<br>🔵 Working On:<br>- Simple Projects
+I’m currently learning:<br>- Kotlin<br>Working On:<br>- Simple Projects
 
 
 ## Socials:
